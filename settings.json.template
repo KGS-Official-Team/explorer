@@ -10,10 +10,10 @@
   "address": "127.0.0.1:3001",
 
   // coin name
-  "coin": "Darkcoin",
+  "coin": "Kingscoin",
 
   // coin symbol
-  "symbol": "DRK",
+  "symbol": "KGS",
 
   // logo
   "logo": "/images/logo.png",
@@ -67,7 +67,7 @@
   // menu settings
   "display": {
     "api": true,
-    "markets": true,
+    "markets": false,
     "richlist": true,
     "twitter": true,
     "facebook": false,
